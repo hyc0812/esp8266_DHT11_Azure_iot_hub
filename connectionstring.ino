@@ -1,0 +1,1 @@
+HostName=FleetManagerHub-yong.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=kGt94uTWKy3ZQ8rxl3Qcm11FK0b66PZzNOzMxd6tubc=
